@@ -1,4 +1,5 @@
 <?php
+//Git Test
 function get_availability($start_date, $end_date)
 {
 
